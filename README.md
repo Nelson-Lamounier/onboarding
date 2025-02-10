@@ -26,7 +26,7 @@ example:
 
 ```json
 {
-  "message": "Hi {name}, you have ordered 5 of apple."}%
+  "message": "Hi {name}, you have ordered 5 of apple."}
 }
 ```
 
